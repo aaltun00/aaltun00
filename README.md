@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 **Education:** Software Engineering Student.
-- 💻 **Laptop:** Working on an **Asus ROG Strix Scar 16 (2023)**.
+- 💻 **Laptop:** Interested in Backend Development, Algorithms, and Databases
 - 🔭 **Current Focus:** Deepening my knowledge in Software Architecture and Data Science.
 - 🌱 **Learning:** Currently improving my skills in **Java**, **Python**, and **C#**.
 - 🥅 **2026 Goal:** Land a professional software development internship and contribute to open-source projects.
