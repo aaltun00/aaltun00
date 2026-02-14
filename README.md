@@ -57,7 +57,7 @@
   <a href="mailto: altunkaynak045@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Gmail&message=Contact_Me&color=D14836&style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/abdullah-altunkaynak/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Network&color=0077B5&style=for-the-badge&logo=linkedin" />
   </a>
 </div>
