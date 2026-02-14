@@ -4,13 +4,12 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=abdullah-altunkaynak&color=007ACC&style=for-the-badge&label=PROFIL+GORUNTULEME" alt="views" />
-    <img src="https://img.shields.io/badge/Status-Building_Future-blueviolet?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 👤 Hakkımda (Brief)
+### 👤 Hakkımda
 - 🎓 **Akademik:** Yazılım Mühendisliği öğrencisi olarak eğitim hayatıma devam ediyorum.
 - 💻 **Main Machine:** Geliştirme süreçlerimi **Asus ROG Strix Scar 16 (2023)** donanımıyla yönetiyorum.
 - 🔭 **Aktif Odak:** Yazılım Mimarisi ve Tasarımı üzerine derinleşirken, Python ile Veri Bilimi projeleri geliştiriyorum.
