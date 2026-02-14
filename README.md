@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Software Engineering Student.
-- 💻 **Laptop:** Interested in Backend Development, Algorithms, and Databases
-- 🔭 **Current Focus:** Deepening my knowledge in Software Architecture and Data Science.
-- 🌱 **Learning:** Currently improving my skills in **Java**, **Python**, and **C#**.
-- 🥅 **2026 Goal:** Land a professional software development internship and contribute to open-source projects.
+- 🎓 Software Engineering Student.
+- 💻 Interested in Backend Development, Algorithms, and Databases
+- 🔭 Deepening my knowledge in Software Architecture and Data Science.
+- 🌱 Currently improving my skills in **Java**, **Python**, and **C#**.
+- 🥅 Land a professional software development internship and contribute to open-source projects.
 
 <hr />
 
